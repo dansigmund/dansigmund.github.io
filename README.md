@@ -2,7 +2,9 @@
 # Daniel Sigmund
 ## Villanova University
 Bachelor's Degree in Computer Science
+
 Minor in Engineering Entrepreneurship
+
 2019-2023
 ## Projects
 ## [Resume](file:///C:/Users/dansi/Downloads/Updated+Resume.pdf)
