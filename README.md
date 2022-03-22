@@ -1,4 +1,4 @@
-<img align="right" width="275" height="275" src="https://media-exp1.licdn.com/dms/image/C4E03AQHXbXZ7COvwpw/profile-displayphoto-shrink_400_400/0/1646515114349?e=1653523200&v=beta&t=3NcBVIVdMgYqd5bePXBmMZ-14jx05GA9ZmU15ebER6U">
+<img align="right" width="250" height="250" src="https://media-exp1.licdn.com/dms/image/C4E03AQHXbXZ7COvwpw/profile-displayphoto-shrink_400_400/0/1646515114349?e=1653523200&v=beta&t=3NcBVIVdMgYqd5bePXBmMZ-14jx05GA9ZmU15ebER6U">
 
 # Daniel Sigmund
 ## Villanova University
