@@ -1,5 +1,8 @@
-## Welcome to GitHub Pages
-
+# Daniel Sigmund
+## Villanova University
+2019-2023
+## Projects
+## [Resume](file:///C:/Users/dansi/Downloads/Updated+Resume.pdf)
 You can use the [editor on GitHub](https://github.com/dansigmund/dansigmund.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
