@@ -15,6 +15,11 @@ Minor in Engineering Entrepreneurship
 ### Files
 ### [Github](https://github.com/dansigmund)
 ## [Resume](file:///C:/Users/dansi/dansigmund.github.io/Updated%20Resume.pdf)
+## Contact Information
+- Email:
+  - [School Email (Main)](dsigmund@villanova.edu)
+  - [Personal Email](dansigmund@gmail.com)
+
 You can use the [editor on GitHub](https://github.com/dansigmund/dansigmund.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
