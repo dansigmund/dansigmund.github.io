@@ -12,6 +12,7 @@ Minor in Engineering Entrepreneurship
 - Web Portfolio (Hosted on Apache Server)
 - Web page to view 2016 Election results by state (Hosted on Apache Server)
 - Oracle Database on Seattle Kraken Roster
+## Links
 ### Files
 ### [GitHub](https://github.com/dansigmund)
 ### [LinkedIn](https://www.linkedin.com/in/daniel-sigmund-b64706207/)
