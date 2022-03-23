@@ -13,7 +13,7 @@ Minor in Engineering Entrepreneurship
 - Web page to view 2016 Election results by state (Hosted on Apache Server)
 - Oracle Database on Seattle Kraken Roster
 ### Files
-### Github
+### [Github](https://github.com/dansigmund)
 ## [Resume](file:///C:/Users/dansi/dansigmund.github.io/Updated%20Resume.pdf)
 You can use the [editor on GitHub](https://github.com/dansigmund/dansigmund.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
