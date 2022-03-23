@@ -13,12 +13,16 @@ Minor in Engineering Entrepreneurship
 - Web page to view 2016 Election results by state (Hosted on Apache Server)
 - Oracle Database on Seattle Kraken Roster
 ### Files
-### [Github](https://github.com/dansigmund)
+### [GitHub](https://github.com/dansigmund)
+### [LinkedIn](https://www.linkedin.com/in/daniel-sigmund-b64706207/)
 ## [Resume](file:///C:/Users/dansi/dansigmund.github.io/Updated%20Resume.pdf)
 ## Contact Information
 - Email:
   - [School Email (Main)](dsigmund@villanova.edu)
   - [Personal Email](dansigmund@gmail.com)
+- Phone:
+  - (617)335-1993
+
 
 You can use the [editor on GitHub](https://github.com/dansigmund/dansigmund.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
