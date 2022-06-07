@@ -1,4 +1,4 @@
-<img align="right" width="250" height="250" src="https://media-exp1.licdn.com/dms/image/C4E03AQHXbXZ7COvwpw/profile-displayphoto-shrink_400_400/0/1646515114349?e=1653523200&v=beta&t=3NcBVIVdMgYqd5bePXBmMZ-14jx05GA9ZmU15ebER6U">
+<img align="right" width="250" height="250" src="https://media-exp2.licdn.com/dms/image/C5603AQF9fG5hv1mWSQ/profile-displayphoto-shrink_400_400/0/1654555849894?e=1660176000&v=beta&t=lfxngJvhWZ3I8tzq1nNe9VwVFbrVpmNfFtr0F4H_APo">
 
 # Daniel Sigmund
 ## Villanova University
@@ -9,4 +9,4 @@ Bachelor's Degree in Computer Science
 
 Minor in Engineering Entrepreneurship
 
-## [Click Here] (dansigmund.github.io/index1)
+## [Click Here](dansigmund.github.io/index1)
