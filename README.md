@@ -9,4 +9,4 @@ Bachelor's Degree in Computer Science
 
 Minor in Engineering Entrepreneurship
 
-## [Click Here](dansigmund.github.io/index1)
+## [Click Here](dansigmund.github.io/index1.html)
