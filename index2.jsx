@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 
 
-class MyHeader extends React.Component {
+class Header extends React.Component {
     render() {
         return (
             <div>
@@ -12,6 +12,7 @@ class MyHeader extends React.Component {
                     for productive work. Driven to learn more about network security and data analyzation. Forward-thinking team member
                     with solid technical and requirements gathering skills. Evaluating risks, troubleshooting issues and conducting product
                     tests. Good verbal and written communication, project planning and organizational skills.</p>
+                <img style={{ position: absolute }}></img>
             </div>
         );
     }
